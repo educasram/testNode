@@ -1,7 +1,32 @@
 {
-  "name":"testNode",
-  "description":"test",
-  "scripts":{},
-  "env":{},
-  "addons":[]
+  "name": "testnode",
+  "version": "1.0.0",
+  
+"description": "prueba de servidor para clase de Edwin",
+  
+"main": "index.js",
+  
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  
+  "start": "node server.js"
+  },
+ 
+ "repository": {
+    "type": "git",
+  
+  "url": "git+https://github.com/educasram/testNode.git"
+  },
+ 
+ "keywords": [
+    "ml12paraiso"
+  ],
+  "author": "Miguel Castillo",
+ 
+ "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/educasram/testNode/issues"
+  },
+
+  "homepage": "https://github.com/educasram/testNode#readme"
 }
