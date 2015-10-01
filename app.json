@@ -1,0 +1,7 @@
+{
+  "name":"testNode",
+  "description":"test",
+  "scripts":{},
+  "env":{},
+  "addons":[]
+}
